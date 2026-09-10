@@ -1,0 +1,55 @@
+name: openBIS
+
+description: >
+  Open-source ELN-LIMS and research data management
+  platform for scientific research.
+
+homepage:
+  - https://openbis.ch/
+
+primary_purpose:
+  - ELN
+  - LIMS
+  - Metadata Management
+
+use_cases:
+  - Laboratory data management
+  - Experiment documentation
+  - Sample tracking
+  - Project tracking
+  - Omics data management
+
+key_strengths:
+  - Structured sample and experiment tracking
+  - Integrated ELN and LIMS functionality
+  - FAIR-oriented research data management
+
+license:
+  - Open Source
+
+deployment:
+  - On-Premises
+  - Self-Hosted
+
+technical_scope:
+  - REST API
+  - Python API
+
+data_type:
+  - Sample Data
+  - Experimental Data
+  - Omics Data
+
+parsable_imported_file_formats:
+  - format: XLSX
+    purpose: Structured metadata import
+
+research_area:
+  - Life Sciences
+  - Biomedical Research
+  - Molecular & Cell Biology
+  - Omics Research
+  - Biobanking
+
+sources:
+  - https://openbis.ch/

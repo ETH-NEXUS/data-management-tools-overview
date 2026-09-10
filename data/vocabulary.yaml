@@ -1,0 +1,73 @@
+functional_category:
+  - Metadata Management
+  - Workflow Management
+  - Data Catalog
+  - LIMS
+  - ELN
+  - EDC
+  - Provenance Tracking
+  - Data Versioning
+  - Reproducibility Platform
+  - FAIR Support
+  - Data Documentation
+  - Biobank Management
+  - Imaging Data Management
+  - Computational Research Platform
+
+data_type:
+  - Clinical Data
+  - Sample Data
+  - Imaging Data
+  - MRI Data
+  - Omics Data
+  - Computational Data
+  - Experimental Data
+  - Biobank Data
+  - Survey Data
+
+deployment:
+  - On-Premises
+  - Cloud
+  - Hybrid
+  - Self-Hosted
+  - SaaS
+
+license:
+  - Open Source
+  - Commercial
+  - Institutional
+  - Academic Free
+
+technical_scope:
+  - REST API
+  - Python API
+  - Plugin Architecture
+  - Docker Support
+  - Kubernetes Support
+  - Git-Based
+  - HPC Integration
+  - DOI Support
+
+research_area:
+  - Medical Imaging
+  - Radiology
+  - Neuroimaging
+  - Biomedical Imaging Research
+  - Clinical Research
+  - Epidemiology
+  - Public Health
+  - Translational Medicine
+  - Patient Registry Studies
+  - Survey-Based Research
+  - Biomedical Research
+  - Clinical Trials
+  - Life Sciences
+  - Molecular & Cell Biology
+  - Omics Research
+  - Biobanking
+  - Chemistry
+  - Materials Science
+  - Physics
+  - Computational Research
+  - Data Science
+  - Multidisciplinary Research
